@@ -1,4 +1,6 @@
+```yaml
 DEVICE=ens33
 BOOTPROTO=none
 ONBOOT=yes
 NM_CONTROLLED=yes
+```
